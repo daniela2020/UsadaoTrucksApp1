@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Usadão Trucks App</string>
+    <string name="action_settings">Produtos</string>
+    <string name="action_cad_produto">Cadastro de Produtos</string>
+    <string name="action_login">Login</string>
+    <string name="action_contato">Contato</string>
+
+</resources>

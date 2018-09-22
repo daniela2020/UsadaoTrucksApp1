@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContatoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/idcontato"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:textSize="18sp"
+            tools:text=" usadaotrucks@outlook.com
+              fone: 55 3313 1871
+              Rua:Jakob Vontobel 1121 Bairro Kurtz
+              Santo Ângelo RS" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
