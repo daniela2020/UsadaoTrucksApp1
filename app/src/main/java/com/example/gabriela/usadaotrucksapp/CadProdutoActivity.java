@@ -17,6 +17,7 @@ public class CadProdutoActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cad_produto);
+
         banco = this.openOrCreateDatabase("baseNomes", Context.MODE_PRIVATE,null);
         banco.execSQL("CREATE table if not exists frase(" +"id_frase INTEGER PRIMARY KEY AUTOINCREMENT, "+ "texto varchar(60))");
     }

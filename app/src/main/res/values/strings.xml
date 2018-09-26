@@ -5,4 +5,14 @@
     <string name="action_login">Login</string>
     <string name="action_contato">Contato</string>
 
+
+    <string name="subtitulo_main">Selecione uma opção para retorno contato:</string>
+    <string name="rdb_opcao1">Telefone</string>
+    <string name="rdb_opcao2">SMS</string>
+    <string name="rdb_opcao3">E-mail</string>
+    <string name="btn_verificar">Verificar Opção</string>
+    <string name="rodape"> Usadao Trucks App</string>
+
+
 </resources>
+

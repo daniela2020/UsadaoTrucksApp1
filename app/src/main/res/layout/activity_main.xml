@@ -18,6 +18,12 @@
             android:layout_width="match_parent"
             android:layout_height="322dp"
             app:srcCompat="@drawable/logousadao1" />
+        <Button
+            android:id="@+id/bt_tela2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="bt_tela2"
+            android:text="tela2" />
 
 
     </LinearLayout>
